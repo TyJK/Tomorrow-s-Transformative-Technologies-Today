@@ -1,4 +1,4 @@
-# Tomorrow-s-Transformative-Technologies-Today
+# Tomorrow's Transformative Technologies Today
 A YouTube channel focused on discussing and explaining the scientific, societal and philosophical realities of emerging technology, including the blockchain, machiene learning and IoT devices, among others. The channel will be geared towards those with little to no initial understanding, and will provide a detailed but broad overview of the history, present state and future challenges surrounding these developments.
 
 The purpose of this repo is to distribute the load of research and script writting across creators. It is open for the purposes of allowing interested parties contribute. All research used in the final product will of course be credited. 
