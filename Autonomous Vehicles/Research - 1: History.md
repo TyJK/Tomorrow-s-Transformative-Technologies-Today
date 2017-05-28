@@ -1,4 +1,4 @@
-# History of Autnomous Vehicles 
+# History of Autonomous Vehicles 
 
 An autonomous car also known as a driverless car, is a vehicle that is capable of sensing its environment and navigating without human input. Many such vehicles are being developed, but as of May 2017 automated cars permitted on public roads are not yet fully autonomous. They all require a human driver at the wheel who is ready at a moment's notice to take control of the vehicle.
 
