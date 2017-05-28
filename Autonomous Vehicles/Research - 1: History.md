@@ -4,7 +4,7 @@ An autonomous car also known as a driverless car, is a vehicle that is capable o
 
 Autonomous cars use a variety of techniques to detect their surroundings, such as radar, laser light, GPS, odometry, and computer vision. Advanced control systems interpret sensory information to identify appropriate navigation paths, as well as obstacles and relevant signage. 
 
-Autonomous vs. automated
+## Autonomous vs. automated
 Autonomous means having the power for self-governance
 
 SAE automated vehicle classifications:
@@ -18,8 +18,7 @@ SAE automated vehicle classifications:
 
 Experiments have been conducted on automating cars since at least the 1920s; promising trials took place in the 1950s and work has proceeded since then. The first self-sufficient and truly autonomous cars appeared in the 1980s
 
-The first competition of the DARPA Grand Challenge was held on March 13, 2004 in the Mojave Desert.
-
-2009 The Google Self-Driving Car project begins
-2015 Tesla release its Autopilot software update.
-2016 
+- The first competition of the DARPA Grand Challenge was held on March 13, 2004 in the Mojave Desert.
+- 2009 The Google Self-Driving Car project begins
+- 2015 Tesla release its Autopilot software update.
+- 2016 
