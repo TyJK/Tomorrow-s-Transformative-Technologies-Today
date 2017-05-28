@@ -9,12 +9,12 @@ Autonomous means having the power for self-governance
 
 SAE automated vehicle classifications:
 
-Level 0: Automated system issues warnings but has no vehicle control.
-Level 1 (”hands on”):
-Level 2 (”hands off”): 
-Level 3 (”eyes off”):
-Level 4 (”mind off”):
-Level 5 (”wheel optional”): No human intervention is required. An example would be a robot taxi.
+- Level 0: Automated system issues warnings but has no vehicle control.
+- Level 1 (”hands on”):
+- Level 2 (”hands off”): 
+- Level 3 (”eyes off”):
+- Level 4 (”mind off”):
+- Level 5 (”wheel optional”): No human intervention is required. An example would be a robot taxi.
 
 Experiments have been conducted on automating cars since at least the 1920s; promising trials took place in the 1950s and work has proceeded since then. The first self-sufficient and truly autonomous cars appeared in the 1980s
 
